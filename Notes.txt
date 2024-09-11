@@ -1,1 +1,4 @@
 Eslam Shaker Taha (EST)
+
+1) Learn SOLID Principles
+2) Learn Design Patterns
