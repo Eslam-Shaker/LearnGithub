@@ -1,2 +1,4 @@
 1) explain project's idea in details
 2) create list of all project's features
+3) create list of all project's requirements
+4) create list of all project's risks
