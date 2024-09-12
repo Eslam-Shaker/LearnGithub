@@ -24,3 +24,5 @@ git commit -m "commit message"
 <a href="https://youtu.be/xJXgvr8bPes?si=oceAybQk0BMVW7hL" target="_blank">
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/git_vs_github2.jpg" alt="Git vs GitHub" width="400"/>
 </a>
+
+[<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/git_vs_github2.jpg" alt="Git vs GitHub" width="50%"/>](https://youtu.be/xJXgvr8bPes?si=oceAybQk0BMVW7hL)
